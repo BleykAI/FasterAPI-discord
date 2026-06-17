@@ -1,1 +1,1 @@
-﻿Write-Host "Привет от FasterAPI!"
+Write-Host "Привет от FasterAPI!"
